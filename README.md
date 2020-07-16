@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a bunch of open-source projects
+- 🌱 I’m currently learning angular
+- 🤔 I’ll pimp this out soon
 
 <!--
 **bolorundurovj/bolorundurovj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
