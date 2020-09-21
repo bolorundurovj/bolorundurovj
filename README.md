@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=bolorundurovj&color=green)
+
 ### Hi there 👋
 - 🔭 I’m currently working on a bunch of open-source projects
 - 🌱 I’m currently learning angular
