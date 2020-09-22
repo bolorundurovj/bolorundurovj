@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on a bunch of open-source projects
-- 🌱 I’m currently learning angular
 - 🤔 I’ll pimp this out soon
 
 <!--
