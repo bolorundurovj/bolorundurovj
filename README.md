@@ -1,5 +1,5 @@
 
-
+![](https://komarev.com/ghpvc/?username=bolorundurovj&color=green)
 ### Hi there 👋
 - 🔭 I’m currently working on a bunch of open-source projects
 - 🤔 I’ll pimp this out soon
@@ -7,7 +7,7 @@
 <!--
 **bolorundurovj/bolorundurovj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=bolorundurovj&color=green)
+
 
 Here are some ideas to get you started:
 
