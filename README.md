@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=bolorundurovj&color=green)
+
+<a href="https://komarev.com/ghpvc/?username=bolorundurovj&color=green">&nbsp;</a>
 
 ### Hi there 👋
 - 🔭 I’m currently working on a bunch of open-source projects
