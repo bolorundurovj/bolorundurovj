@@ -4,7 +4,7 @@ src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bo
 src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovb" /> <img
 src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" /> </p>
 
-- 🔭 I’m currently working on **making the world a better place**...:smiling_imp:
+- 🔭 I’m currently working on **making the world a better place**...😁
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
@@ -18,8 +18,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 </p>
 
 <p align="center">
-<a href="https://medium.com/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="bolorundurovb" height="22" width="22" /></a>
-  <a href="https://dev.to/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bolorundurovb" height="22" width="22" /></a>
+<a href="https://medium.com/@bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="bolorundurovb" height="22" width="22" /></a>
 <a href="https://twitter.com/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bolorundurovb" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bolorundurovb" height="22" width="22" /></a>
 <a href="https://stackoverflow.com/users/9954249/valiant-joshua-bolorunduro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bolorundurovb" height="22" width="22" /></a>
