@@ -4,7 +4,7 @@ src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bo
 src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovj" /> <img
 src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" /> </p>
 
-- 🔭 I’m currently working on **making the world a better place**...😁
+<!-- - 🔭 I’m currently working on **making the world a better place**...😁 -->
 
 - 👯 I’m looking to working on **any short-term freelance project**
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
