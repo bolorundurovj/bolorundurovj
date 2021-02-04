@@ -9,7 +9,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 <!-- - 👯 I’m looking to working on **any short-term project** -->
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://bolorundurovb.com)
+- 👨‍💻 All of my projects are available at [my portfolio](https://bolorundurovb.live)
 
 - 📫 You can reach me **[here](mailto:halexandearfleming@gmail.com)**
 
