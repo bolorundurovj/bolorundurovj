@@ -14,7 +14,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 - 📫 You can reach me **[here](mailto:halexandearfleming@gmail.com)**
 
 <p align="center" height='130px'>
-  <img src="https://github-readme-stats.vercel.app/api?username=bolorundurovj&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=graywhite" alt="bolorundurovj"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=bolorundurovj&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=graywhite&hide=prs" alt="bolorundurovj"/> 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolorundurovj&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="bolorundurovj"/>  -->
 </p>
 
