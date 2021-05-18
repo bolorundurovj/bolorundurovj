@@ -1,6 +1,5 @@
 <h4 align="center">I'm a Computer Engineer, Software Developer, an aspiring Entrepreneur, Open-source Enthusiast.</h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bolorundurovj" alt="bolorundurovj" /> <img 
-src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bolorundurovj" /> <img 
+<p align="center"> <img src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bolorundurovj" /> <img 
 src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovj" /> <img
 src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" /> </p>
 
