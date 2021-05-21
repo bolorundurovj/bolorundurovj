@@ -1,4 +1,4 @@
-<h4 align="center">I'm a Computer Engineer, Software Developer, an aspiring Entrepreneur, Open-source Enthusiast.</h4>
+<h4 align="center">I'm a Computer Engineer, Software Developer, Open-source Enthusiast, and an aspiring Entrepreneur.</h4>
 <p align="center"> <img src="https://img.shields.io/github/followers/bolorundurovj?style=social" alt="bolorundurovj" /> <img 
 src="https://img.shields.io/github/last-commit/bolorundurovj/bolorundurovj" alt="bolorundurovj" /> <img
 src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style=social" alt="bolorundurovb" /> </p>
