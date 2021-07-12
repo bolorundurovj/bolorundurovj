@@ -6,7 +6,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 <!-- - 🔭 I’m currently working on **making the world a better place**...😁 -->
 
 <!-- - 👯 I’m looking to working on **any short-term project** -->
-<!-- - 👯 I’m looking to collaborate on **any interesting project** -->
+- 👯 I’m looking to collaborate on **any interesting project**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://bolorundurovb.live)
 
