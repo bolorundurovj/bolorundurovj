@@ -25,6 +25,6 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 <a href="https://medium.com/@bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="bolorundurovb" height="22" width="22" /></a>
 <a href="https://twitter.com/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bolorundurovb" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bolorundurovb" height="22" width="22" /></a>
-<a href="https://stackoverflow.com/users/9954249/valiant-joshua-bolorunduro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bolorundurovb" height="22" width="22" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bolorundurovb" height="22" width="22" /></a>
 <a href="https://instagram.com/bolorundurovb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bolorundurovb" height="22" width="22" /></a>
 </p>
