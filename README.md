@@ -12,7 +12,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 
 - 📫 You can reach me **[here](mailto:halexandearfleming@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bolorundurovj&" alt="bolorundurovj" /></p>
+<p style= style="width: 100%;"><img align="center" style="margin-left: auto; margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=bolorundurovj&" alt="bolorundurovj" /></p>
 
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=bolorundurovj&margin-w=30"/>
