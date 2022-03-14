@@ -12,7 +12,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 
 - 📫 You can reach me **[here](mailto:halexandearfleming@gmail.com)**
 
-<p style= style="width: 100%;"><img align="center" style="margin-left: auto; margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=bolorundurovj&" alt="bolorundurovj" /></p>
+<!-- <p style= style="width: 100%;"><img align="center" style="margin-left: auto; margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=bolorundurovj&" alt="bolorundurovj" /></p> -->
 
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=bolorundurovj&margin-w=30"/>
@@ -20,7 +20,7 @@ src="https://img.shields.io/twitter/follow/bolorundurovb?label=Follow%20me&style
 
 <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=bolorundurovj&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=graywhite&hide=prs" alt="bolorundurovj"/> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolorundurovj&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="bolorundurovj"/>  -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolorundurovj&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="bolorundurovj"/> -->
 </p>
 
 <p align="center">
